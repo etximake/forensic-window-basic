@@ -18,6 +18,7 @@ Lưu vào thư mục: C:\EZTools\Run-EZForensic.ps1.
 
 Bước 4. Chạy script
 Mở PowerShell (Admin) và chạy:
+
 cd C:\EZTools
 .\Run-EZForensic.ps1
 
@@ -34,15 +35,18 @@ Thời điểm và tần suất sử dụng.
 📖 Hướng dẫn sử dụng
 Bước 1. Chuẩn bị
 Đảm bảo bạn đã cài đặt EZ Tools bằng Get-ZimmermanTools.
+
 KAPE nằm tại: C:\EZTools\KAPE\kape.exe
 Timeline Explorer nằm tại: C:\EZTools\Timeline Explorer\TimelineExplorer.exe
 
 Bước 2. Lưu script
 Copy code trên → lưu thành file:
+
 C:\EZTools\Run-KAPE-Timeline.ps1
 
 Bước 3. Chạy script
 Mở PowerShell (Administrator) và chạy:
+
 cd C:\EZTools
 .\Run-KAPE-Timeline.ps1
 
