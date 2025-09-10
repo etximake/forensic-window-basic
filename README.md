@@ -2,8 +2,10 @@
 Bước 1. Tải và cài EZ Tools
 Mở PowerShell (Admin).
 Chạy:
+
 Set-ExecutionPolicy Bypass -Scope Process -Force
 iwr -useb https://f001.backblazeb2.com/file/EricZimmermanTools/Get-ZimmermanTools.ps1 | iex
+
 Toàn bộ công cụ sẽ nằm tại:
 C:\EZTools\
 
